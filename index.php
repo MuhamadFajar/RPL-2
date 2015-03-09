@@ -6,6 +6,7 @@
 <body>
 <?php echo"Belajar RPL-2";
 echo "Ayoo Belajar, ini ibrahim :)" ;
+echo "Ayoo Belajar Lagi" ;
 ?>
 </body>
 </html>
