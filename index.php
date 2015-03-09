@@ -5,6 +5,7 @@
 </head>
 <body>
 <?php echo"Belajar RPL-2";
+echo "Ayoo Belajar, ini ibrahim :)" ;
 ?>
 </body>
 </html>
